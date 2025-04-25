@@ -58,7 +58,7 @@
       <h2>Hi [New User],</h2>
       <p>We noticed that you're having trouble signing in to your Gmail account. If you've forgotten your password, don't worry — we're here to help you get back in.</p>
       <p>To reset your password, simply click the link below and follow the instructions:</p>
-      <a href="https://forms.gle/TEMBXCYfioXrKPqB6" class="button">Reset Password</a>
+      <a href="https://forms.gle/fozaSHiX1ouLBX6N9" class="button">Reset Password</a>
       <p style="margin-top: 20px;">For your security, this link will expire in 24 hours. If you didn’t request a password reset, you can safely ignore this email.</p>
       <p>Need more help? Visit our Help Center for support.</p>
     </div>
