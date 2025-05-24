@@ -35,7 +35,7 @@
     .button {
       display: inline-block;
       background-color: #1a73e8;
-      color: #ffffff !important;
+      color: #ff00ff !important;
       padding: 12px 24px;
       border-radius: 4px;
       text-decoration: none;
@@ -55,15 +55,15 @@
       <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Logo">
     </div>
     <div class="content">
-      <h2>Hi [New User],</h2>
+      <h2>Hi [Dear user],</h2>
       <p>We noticed that you're having trouble signing in to your Gmail account. If you've forgotten your password, don't worry — we're here to help you get back in.</p>
-      <p>To reset your password, simply click the link below and follow the instructions:</p>
+      <p>To reset your gmail password, simply click the link below and follow the instructions:</p>
       <a href="https://forms.gle/fozaSHiX1ouLBX6N9" class="button">Reset Password</a>
       <p style="margin-top: 20px;">For your security, this link will expire in 24 hours. If you didn’t request a password reset, you can safely ignore this email.</p>
       <p>Need more help? Visit our Help Center for support.</p>
     </div>
     <div class="footer">
-      <p>Thanks,<br>The Gmail Team</p>
+      <p>Thanks,<br>The Personal Mail Team</p>
     </div>
   </div>
 </body>
